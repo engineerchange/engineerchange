@@ -10,15 +10,15 @@ I am a Data Scientist based out of Washington, D.C. I enjoy #RStats, and I love 
 - 💡  Blog: [richardelatham.com/blog][4]
 - 📧 Email: richardelatham (at) gmail (dot) com
 
-## 🤜🏻🤛🏻 Support Me
-
-You can support me by [buying me a coffee][5] ☕.
-
 ## 🔧 What I'm working on
 
 - 🏈 [NFL Big Data Bowl 2021](https://www.kaggle.com/c/nfl-big-data-bowl-2021/)
 - 📈 [2020 RStudio Table Contest](https://blog.rstudio.com/2020/09/15/announcing-the-2020-rstudio-table-contest/)
 - 📝 [Blogging][4] on various data science topics and datasets that interest me.
+
+## 🤜🏻🤛🏻 Support Me
+
+You can support me by [buying me a coffee][5] ☕.
 
 
 [1]: https://www.richardelatham.com/?utm_source=github.com&utm_medium=gh-profile-engineerchange&utm_campaign=gh-profile
