@@ -4,11 +4,11 @@ I am a Data Scientist based out of Washington, D.C. I enjoy #RStats, and I love 
 
 ## 📬 Reach out
 
-- 📑 Website: [richardelatham.com][1]
-- 💼 LinkedIn: [linkedin.com/in/richardelatham][2]
-- 🐦 Twitter: [twitter.com/engineerchange][3]
-- 💡  Blog: [richardelatham.com/blog][4]
-- 📧 Email: richardelatham (at) gmail (dot) com
+- Website: [richardelatham.com][1]
+- LinkedIn: [linkedin.com/in/richardelatham][2]
+- Twitter: [twitter.com/engineerchange][3]
+- Blog: [richardelatham.com/blog][4]
+- Email: richardelatham (at) gmail (dot) com
 
 ## 🔧 What I'm working on
 
