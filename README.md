@@ -12,7 +12,7 @@ I am a Data Scientist based out of Washington, D.C. I enjoy #RStats, and I love 
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me by [buying me a coffee][8] ☕.
+You can support me by [buying me a coffee][5] ☕.
 
 ## 🔧 What I'm working on
 
