@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Data Scientist based out of Washington, D.C. I enjoy #RStats, and I love working with open data and exploring new datasets.
+I am a Data Scientist based out of Washington, D.C. I enjoy #rstats, and I love working with open data and exploring new datasets.
 
 ## 📬 Reach out
 
