@@ -12,8 +12,6 @@ I am a Data Scientist based out of Washington, D.C. I enjoy #rstats, and I love 
 
 ## 🔧 What I'm working on
 
-- 🏈 [NFL Big Data Bowl 2021](https://www.kaggle.com/c/nfl-big-data-bowl-2021/)
-- 📈 [2020 RStudio Table Contest](https://blog.rstudio.com/2020/09/15/announcing-the-2020-rstudio-table-contest/)
 - 📝 [Blogging][4] on various data science topics and datasets that interest me.
 
 ## 🤜🏻🤛🏻 Support Me
