@@ -18,6 +18,8 @@ I am a Data Scientist based out of Washington, D.C. I enjoy #rstats, and I love 
 
 You can support me by [buying me a coffee][5] ☕.
 
+![engineerchange GitHub stats](https://github-readme-stats.vercel.app/api?username=engineerchange&count_private=true&show_icons=true&theme=dark)
+
 
 [1]: https://www.richardelatham.com/?utm_source=github.com&utm_medium=gh-profile-engineerchange&utm_campaign=gh-profile
 [2]: https://www.linkedin.com/in/richardelatham
